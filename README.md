@@ -1,0 +1,1 @@
+<img src="HEAT_IMG/OUT/BlobFinal.png" alt="The slides we need to edit" width="7324" />
